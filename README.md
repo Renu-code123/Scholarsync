@@ -1,1 +1,1 @@
-# ScholarSync
+# Scholarsync
